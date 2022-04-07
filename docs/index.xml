@@ -6,17 +6,7 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Fabio Murillo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://fabiomurillo16.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Mi ruta de aprendizaje en Launch X</title>
-      <link>https://fabiomurillo16.github.io/my_launchx_blog/posts/post_1/</link>
-      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://fabiomurillo16.github.io/my_launchx_blog/posts/post_1/</guid>
-      <description>Si bien no ha sido un viaje tan largo he tenido varios obstáculos por superar, y por supuesto lleno de aventuras, aprendiendo el lenguaje de programación python, de la mano de Fernanda Ochoa pasando a conocer al hombre que siempre se encuentra al trillón (Rodrigo) y finalmente en la última misión me encuentro con Carlo una persona de la cual aún falta por aprender algunos hacks.
-La primera misión llamada onboarding tuve que aprender un nuevo lenguaje que era python, no tenía nada de conocimiento pero afortunadamente ya había tenido encuentro con JavaScript al menos en sus fundamentos y eso claramente fue una gran ayuda para poder completar las katas de python.</description>
-    </item>
-    
+    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://fabiomurillo16.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>La cultura en el desarrolo de software</title>
       <link>https://fabiomurillo16.github.io/my_launchx_blog/posts/intro/</link>
@@ -29,6 +19,15 @@ Para mi la cultura de un profesional del software se apoya en lo siguiente:
 Para mi este valor es el más valioso de todos, ya que sin él no se pueden establecer unas bases sólidas en una relación humana.
   Comunicación asertiva:
 Sin duda alguna tener esta habilidad es de mucho valor en el ámbito laboral y en la vida ya que si se pretende lograr los objetivos establecidos en el trabajo.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://fabiomurillo16.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fabiomurillo16.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description></description>
     </item>
     
     <item>
