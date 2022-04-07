@@ -1,14 +1,10 @@
 ---
 title: "Mi ruta de aprendizaje en Launch X"
 date: 2022-04-06
-description: 'Descripción de tu blog post'
+description: 'Narrare mi viaje por launch x '
 ---
 
----
-title: "Mi odisea por Launch X"
-date: 2022-03-01
-description: 'Descripción de tu blog post'
----
+
 
 Si bien no ha sido un viaje tan largo he tenido varios obstáculos por superar, y por supuesto lleno de aventuras, aprendiendo el lenguaje de programación python, de la mano de Fernanda Ochoa pasando a conocer al hombre que siempre se encuentra al trillón (Rodrigo) y finalmente en la última misión me encuentro con Carlo una persona de la cual aún falta por aprender algunos hacks. 
 
