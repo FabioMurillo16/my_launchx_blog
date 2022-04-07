@@ -1,7 +1,7 @@
 ---
 title: "Mi ruta de aprendizaje en Launch X"
 date: 2022-04-06
-description: 'Narrare mi viaje por launch x '
+description: 'Narraré mi viaje por launch x '
 ---
 
 
